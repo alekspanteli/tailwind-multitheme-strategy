@@ -1,3 +1,8 @@
 export default function Home() {
-  return <main className="text-3xl underline">test</main>;
+  return (
+    <div class="flex gap-4 p-4">
+      <div class="square"></div>
+      <div class="square square--pink"></div>
+    </div>
+  );
 }
