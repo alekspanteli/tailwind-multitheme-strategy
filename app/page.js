@@ -208,7 +208,6 @@ export default function Home() {
               200
             </div>
             <div
-              data-theme="base"
               className="bg-primary-300 text-primary-900 grid h-16 w-16 place-items-end p-1 font-semibold leading-none"
             >
               300
